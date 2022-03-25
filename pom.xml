@@ -42,7 +42,7 @@
 					<source>1.8</source>
 					<target>1.8</target>
 					<fork>true</fork>
-					<executable>/Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home</executable>
+					<executable>/Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home/javac</executable>
 				</configuration>
 			</plugin>
 		</plugins>
